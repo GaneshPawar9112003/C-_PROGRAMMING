@@ -1,0 +1,1 @@
+fprintf(output, "\n Element %d is at index = %d\n", key, index);
